@@ -6,3 +6,4 @@ metadata:
 spec:
   targets:
     - ./components/artist-lookup-component.yaml
+    - ./components/petstore.yaml
